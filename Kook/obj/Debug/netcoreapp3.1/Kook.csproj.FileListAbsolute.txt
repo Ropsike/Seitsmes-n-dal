@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.exe
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.dll
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\bin\Debug\netcoreapp3.1\Kook.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.dll
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Kook\obj\Debug\netcoreapp3.1\Kook.genruntimeconfig.cache

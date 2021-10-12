@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.exe
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.dll
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\bin\Debug\netcoreapp3.1\Eesnimi tagurpidi.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.dll
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Weekseven\Eesnimi tagurpidi\obj\Debug\netcoreapp3.1\Eesnimi tagurpidi.genruntimeconfig.cache

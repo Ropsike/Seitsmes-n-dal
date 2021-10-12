@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Suvaline täheke/1.0.0": {
+        "runtime": {
+          "Suvaline täheke.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Suvaline täheke/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
